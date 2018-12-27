@@ -4,4 +4,10 @@
 
 3. Then run: brew cask install miniconda; brew cask install docker; brew install git
 
-Ta-da! You're done! 
+4. Go to https://console.cortex.insights.ai/ and log in with the credentials you've been given
+
+5. Download Cortex Studio and install it as usual
+
+6. Open a terminal window and type npm install -g cortex-cli 
+
+Check out https://docs.cortex.insights.ai/docs/getting-started/cli/ for more info for configuration
