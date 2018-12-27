@@ -1,0 +1,33 @@
+1. Install Miniconda
+https://conda.io/miniconda.html 
+--During the installation, make sure to check the "Add to Path" Option in the dialog box. 
+
+2. Install NodeJS
+https://nodejs.org/en/download/ 
+--Make sure that npm is also being installed as an option
+
+3. Install Git
+https://git-scm.com/download/win
+--Select "Use Windows' default console window" in the dialog box
+
+4. Install Docker
+https://hub.docker.com/editions/community/docker-ce-desktop-windows
+--You'll need to login to download Docker. If you don't have a login, create one. 
+--Windows 10 Pro or Enterprise is required
+--A reboot will be required (because, Windows)
+
+5. Install Cortex Studio
+--Go to https://console.cortex.insights.ai and log in with the credentials that have been given to you
+--Download Cortex Studio and install it 
+
+6. Click on the Cortana search box and type cmd
+
+7. Type npm --version to make sure that npm is functioning ok
+
+8. Type npm install -g cortex-cli and hit enter to install the Cortex CLI
+
+9. Start up Cortex Studio, click on Skill Lab 
+
+
+
+
