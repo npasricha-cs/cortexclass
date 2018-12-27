@@ -1,0 +1,7 @@
+1. Open a terminal
+
+2. Run: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
+
+3. Then run: brew cask install miniconda; brew cask install docker; brew install git
+
+Ta-da! You're done! 
