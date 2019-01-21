@@ -2,7 +2,7 @@
 
 2. Run: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
 
-3. Then run: brew cask install miniconda; brew cask install docker; brew install git
+3. Then run: brew cask install miniconda; brew install node; brew install nvm; brew cask install docker; brew install git
 
 4. Go to https://console.cortex.insights.ai/ and log in with the credentials you've been given
 
