@@ -1,4 +1,5 @@
-1. Open a terminal window on your Mac by pressing Control-Space and typing terminal. Click to run the terminal as soon as it shows up in the Search results. 
+1. Open a terminal window on your Mac by pressing Control-Space and typing terminal. Click to run the terminal 
+as soon as it shows up in the Search results. 
 
 2. Run: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
 (You should be able to just copy and paste the command--everything after the colon) 
