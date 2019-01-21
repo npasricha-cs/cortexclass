@@ -10,4 +10,11 @@
 
 6. Open a terminal window and type npm install -g cortex-cli 
 
+7. Create a free Docker account at https://hub.docker.com/signup
+
+8. On your keyboard, press Command-Space and then type Docker. Run Docker. 
+
+9. Sign in to Docker using your new account. 
+
 Check out https://docs.cortex.insights.ai/docs/getting-started/cli/#configure-the-clifor more info for CLI configuration
+
