@@ -17,9 +17,11 @@ as soon as it shows up in the Search results.
 
 8. On your keyboard, press Command-Space and then type Docker. Run Docker. 
 
-9. Sign in to Docker using your new account. 
+9. Sign in to the Docker desktop application using your new account. 
 
-Check out https://docs.cortex.insights.ai/docs/getting-started/cli/#configure-the-clifor more info for CLI configuration
+You should have everything you need to run Cortex! 
+
+P.S. Check out https://docs.cortex.insights.ai/docs/getting-started/cli/#configure-the-clifor more info for CLI configuration
 
 P.S. Everything should be installed via Homebrew, but just in case you need the direct links to Node.js and Miniconda: 
 https://nodejs.org/download/release/v8.12.0/node-v8.12.0.pkg
