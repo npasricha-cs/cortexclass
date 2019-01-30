@@ -2,11 +2,11 @@ NOTE: You will need to be a member of the Local Admins group on your Windows 10 
 If you do not have installation privileges, your system administrator will need to install the software packages as listed 
 below using whatever method is best practice in your company. 
 
-1. Install Miniconda
+1. Install Miniconda [Version 4.5.4 or greater]
 https://conda.io/miniconda.html 
 --During the installation, make sure to check the "Add to Path" Option in the dialog box. 
 
-2. Install NodeJS
+2. Install NodeJS [Version 8.12.0 or greater]
 https://nodejs.org/en/download/ 
 --Make sure that npm is also being installed as an option
 
