@@ -1,32 +1,32 @@
 1. Open a terminal window on your Mac by pressing Control-Space and typing terminal. Click to run the terminal 
 as soon as it shows up in the Search results. 
 
-2. Run: 
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
+2. Run: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
 (You should be able to just copy and paste the command--everything after the colon) 
 
 3. Then run: 
-brew cask install miniconda; brew install node; brew install nvm; brew cask install docker; brew install git
+brew cask install miniconda; 
+brew install node; 
+brew install nvm; 
+brew cask install docker; 
+brew install git
 (Again, just copy and paste everything after the colon) 
 
 4. Go to https://console.cortex.insights.ai/ and log in with the credentials you received via email from Cortex
 
 5. Download Cortex Studio and install it as usual
 
-6. Open a terminal window and type 
-npm install -g cortex-cli 
+6. Open a terminal window and type npm install -g cortex-cli 
 
 7. Create a free Docker account at https://hub.docker.com/signup
 
-8. On your keyboard, press Command-Space and then type 
-Docker. Run Docker. 
+8. On your keyboard, press Command-Space and then type Docker. Run Docker. 
 
 9. Sign in to the Docker desktop application using your new account. 
 
 You should have everything you need to run Cortex! 
 
-P.S. Check out https://docs.cortex.insights.ai/docs/getting-started/cli/#configure-the-cli
-for more info for CLI configuration
+P.S. Check out https://docs.cortex.insights.ai/docs/getting-started/cli/#configure-the-clifor more info for CLI configuration
 
 P.S. Everything should be installed via Homebrew, but just in case you need the direct links to Node.js and Miniconda: 
 https://nodejs.org/download/release/v8.12.0/node-v8.12.0.pkg
